@@ -3,33 +3,34 @@
 # Introduction
 BingeFlix is a streaming platform inspired by Netflix, created using Java Swing for the front-end and MySQL as the backend database. It offers users the ability to browse and stream movies and TV shows, providing a user experience similar to the popular streaming service Netflix. This README file provides information on how to set up and use BingeFlix, highlighting its Netflix-like features.
 
-# Table of Contents
-## Introduction
-## Features
-## Requirements
-## Getting Started
-## Installation
-## Configuration
-## Usage
-## Contributing
-## License
+## Table of Contents
+* Introduction 
+* Features 
+* Requirements 
+* Getting Started 
+* Installation 
+* Configuration 
+* Usage 
+* Contributing 
+* License 
 
-## Features
+
+### Features ###
 BingeFlix offers the following features inspired by Netflix:
 
-* User Registration and Login * : Users can create accounts and log in securely.
+* User Registration and Login  : Users can create accounts and log in securely.
 
-* Browse Movies and TV Shows *: Users can explore a vast library of movies and TV shows available on the platform.
+* Browse Movies and TV Shows : Users can explore a vast library of movies and TV shows available on the platform.
 
-* Search Functionality *: Users can search for specific movies or TV shows by title, genre, or actor.
+* Search Functionality : Users can search for specific movies or TV shows by title, genre, or actor.
 
-* Streaming *: Users can watch movies and TV shows with a built-in media player.
+* Streaming : Users can watch movies and TV shows with a built-in media player.
 
-* Personalized Recommendations *: BingeFlix provides personalized movie and TV show recommendations based on user preferences and viewing history.
+* Personalized Recommendations : BingeFlix provides personalized movie and TV show recommendations based on user preferences and viewing history.
 
-* User Profiles *: Users can create and edit their profiles, update their payment information, and manage their subscription plans.
+* User Profiles : Users can create and edit their profiles, update their payment information, and manage their subscription plans.
 
-* Admin Panel *: Admins can manage content, users, and view statistics about the platform.
+* Admin Panel : Admins can manage content, users, and view statistics about the platform.
 
  ## Requirements
 Before setting up BingeFlix, ensure you have the following requirements:
@@ -95,8 +96,3 @@ Your pull request will be reviewed, and upon approval, it will be merged into th
 BingeFlix is licensed under the MIT License. See the LICENSE file for details.
 
 Thank you for using BingeFlix! If you have any questions or encounter issues, please don't hesitate to reach out to the project maintainers. Enjoy your Netflix-inspired streaming platform!
-
-
-
-
-
